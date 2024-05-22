@@ -12,9 +12,9 @@ para crear sitios web estáticos con algunas librerías como Bootstrap y Tailwin
 -  Apenas logre realizar mis primeros proyectos los estaré subiendo a mi Repositorio!! ...
 --- 
   ### Contacto:
-  *me puedes contactar al siguiente link:* [Enviar correo](mailto:guille.work.94@gmail.com)
+  *\=> me puedes contactar al siguiente link:* [Enviar correo](mailto:guille.work.94@gmail.com)
 
-  *o a traves de mi cuenta de Linkedin:* [ir a Linkedin](www.linkedin.com/in/guillermo94barrientos)
+  *\=> o a traves de mi cuenta de Linkedin:* [ir a Linkedin](www.linkedin.com/in/guillermo94barrientos)
 <!---
 memo94dev/memo94dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
