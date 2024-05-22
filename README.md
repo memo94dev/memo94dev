@@ -1,5 +1,5 @@
-# Bienvenido a mi perfil de Github! soy 
-## Guillermo Barrientos
+## Bienvenido a mi perfil de Github! 
+# Guillermo Barrientos
 ## Analista QA | Web Developer
 ![imagen de portada](img/portadagithub.png)
 ---
