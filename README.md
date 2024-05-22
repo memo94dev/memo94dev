@@ -2,8 +2,8 @@
 ## Guillermo Barrientos
 ## Analista QA | Web Developer
 ![imagen de portada](img/portadagithub.png)
-### Sobre Mi:
 ---
+### Sobre Mi:
 -  Actualmente me desempeño en el área de Testing de Software para una consultora,  
 realizando trabajos de testing manual, testing funcional y pruebas de interfaz de usuario ...
 -  También estoy estudiando para ser un Desarrollador Web,  
