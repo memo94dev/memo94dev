@@ -8,18 +8,18 @@
 ¡Hola! Mi nombre es Guillermo Barrientos y soy un apasionado tester de calidad (QA) con una sólida experiencia de dos años en la industria. Actualmente, trabajo para una consultora donde desempeño múltiples roles, desde la realización de pruebas de calidad hasta la implementación y capacitación de sistemas, así como brindar soporte técnico a los usuarios.
 ## Experiencia Profesional
 ### Tester de Calidad (QA)
-•	Duración: (enero/2023 - Actualidad)  
+*(enero/2023 - Actualidad)*  
 •	Responsabilidades:
 - Conducción de pruebas exhaustivas para garantizar la calidad del software.
 - Identificación y documentación de errores y problemas potenciales.
 -	Colaboración con equipos de desarrollo para mejorar la calidad del producto.
 ### Implementación y Capacitación del Sistema
-•	Duración: (enero/2023 - Actualidad)  
+*(enero/2023 - Actualidad)*  
 •	Responsabilidades:
 -	Despliegue exitoso de sistemas en entornos de producción.
 -	Capacitación a usuarios finales para garantizar una adopción efectiva del sistema.
 ### Soporte al Usuario
-•	Duración: (enero/2023 - Actualidad)  
+*(enero/2023 - Actualidad)*  
 •	Responsabilidades:
 -	Resolución rápida y eficiente de problemas técnicos.
 -	Comunicación efectiva con los usuarios para comprender y abordar sus necesidades.
