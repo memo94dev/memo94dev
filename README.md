@@ -30,9 +30,9 @@
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
 ## Contacto:
-  *\=> me puedes contactar al siguiente link:* [Enviar correo](mailto:guille.work.94@gmail.com)
+ - Me puedes contactar al siguiente link: [Enviar correo](mailto:guille.work.94@gmail.com)
 
-  *\=> o a traves de mi cuenta de Linkedin:* [ir a Linkedin](www.linkedin.com/in/guillermo94barrientos)
+ - O a traves de mi cuenta de Linkedin: [Ir a Linkedin](www.linkedin.com/in/guillermo94barrientos)
 <!---
 memo94dev/memo94dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
