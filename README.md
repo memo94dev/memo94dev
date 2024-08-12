@@ -34,7 +34,7 @@
 
  - O a traves de mi cuenta de Linkedin: [Ir a Linkedin](www.linkedin.com/in/memo94dev)
 
-<a href="mailto:guille.work.94@gmail.com"><img src="img/gmail.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://www.likedin.com/in/memo94dev"><img src="img/linkedin.png" alt="Linkedin" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://x.com/memo94dev"><img src="img/twitter.png" alt="Twitter" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://memo94dev.github.io/Portafolio02/"><img src="img/web.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a>
+   <a href="mailto:guille.work.94@gmail.com"><img src="img/gmail.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://www.likedin.com/in/memo94dev"><img src="img/linkedin.png" alt="Linkedin" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://x.com/memo94dev"><img src="img/twitter.png" alt="Twitter" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a> <a href="https://memo94dev.github.io/Portafolio02/"><img src="img/web.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a>
 
 <!---
 memo94dev/memo94dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
