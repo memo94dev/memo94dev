@@ -32,7 +32,7 @@
 ## Contacto:
  - Me puedes contactar al siguiente link: [Enviar correo](mailto:guille.work.94@gmail.com)
 
- - O a traves de mi cuenta de Linkedin: [Ir a Linkedin](www.linkedin.com/in/guillermo94barrientos)
+ - O a traves de mi cuenta de Linkedin: [Ir a Linkedin](www.linkedin.com/in/memo94dev)
 <!---
 memo94dev/memo94dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
