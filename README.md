@@ -2,7 +2,7 @@
 # Guillermo Barrientos
 ### Analista QA | Web Developer
 --- 
-![imagen de portada](img/portadagithub.png)
+![imagen de portada](img/portadagithub-icons.png)
 ---
 ## Sobre Mi:
 ¡Hola! Mi nombre es Guillermo Barrientos y soy un apasionado tester de calidad (QA) con una sólida experiencia de dos años en la industria. Actualmente, trabajo para una consultora donde desempeño múltiples roles, desde la realización de pruebas de calidad hasta la implementación y capacitación de sistemas, así como brindar soporte técnico a los usuarios.
