@@ -32,7 +32,7 @@
 ## Contacto:
 - Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:guille.work.94@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px" title="Enviar Correo">guille.work.94</a>
 
-- O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:blue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
+- O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:dodgerblue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
 
    <a href="mailto:guille.work.94@gmail.com" title="Gmail"><img src="img/gmail-color.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.likedin.com/in/memo94dev" title="Linkedin"><img src="img/linkedin-color.png" alt="Linkedin" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px"></a>&nbsp;&nbsp;&nbsp; <a href="https://x.com/memo94dev" title="Twitter"><img src="img/twitter-color.png" alt="Twitter" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px"></a>&nbsp;&nbsp;&nbsp; <a href="https://memo94dev.github.io/Portafolio02/" title="Portafolio"><img src="img/web-color02.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px"></a>
 
