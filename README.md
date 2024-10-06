@@ -26,7 +26,7 @@
 ## Educación y Desarrollo Profesional
 -	Actualmente, estoy ampliando mis habilidades en el campo del Desarrollo Web y Testing QA, estudiando las tecnologías más actualizadas.
 -	Realizando el curso de Desarrollador Web del Grupo IDT de manera online.
--	Y el Bootcamp de QA Tester organizado por el MITIC impartido por Coding Dojo.
+-	Y el Bootcamp de QA Tester organizado por el MITIC impartido por Coding Dojo LATAM.
 ## Objetivos Profesionales
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
