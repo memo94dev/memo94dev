@@ -1,6 +1,6 @@
 ## Bienvenido a mi perfil de Github! 
 # Guillermo Barrientos
-### Analista QA | Web Developer
+### QA Analyst | Web Developer
 --- 
 ![imagen de portada](img/portadagithub-icons2.png)
 ---
@@ -32,7 +32,7 @@
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
 ## Contacto:
-- Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:guille.work.94@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px" title="Enviar Correo">guille.work.94</a>
+- Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:memo94dev@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px" title="Enviar Correo">guille.work.94</a>
 
 - O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:dodgerblue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
 
