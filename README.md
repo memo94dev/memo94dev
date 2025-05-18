@@ -13,6 +13,7 @@
 - Análisis de Requisitos Funcionales, Historias de Usuario y Criterios de Aceptación.
 - Diseño de Casos de Pruebas y estimación de tiempos de ejecución.
 - Conducción y Ejecución de pruebas exhaustivas para garantizar la calidad del software.
+- Aplicación de Testing Estático, Smoke Test, Testing Funcional o Automatizado según Análisis previo.
 - Identificación y documentación de errores y problemas potenciales.
 - Colaboración con equipos de desarrollo para mejorar la calidad del producto.
 ### Tester de Calidad (QA)
