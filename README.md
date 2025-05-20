@@ -4,6 +4,7 @@
 --- 
 ![imagen de portada](img/portadagithub-icons4.png)
 ---
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/memo94dev?style=social)
 ## Sobre Mi:
 ¡Hola! Mi nombre es **Guillermo Barrientos** y soy un apasionado tester de calidad (QA) con una sólida experiencia de más de dos años en la industria. Actualmente, trabajo para un Banco de renombre donde desempeño el rol de Analista QA, abarcando trabajos desde el análisis y diseño de Casos de Prueba, hasta la preparación y ejecución de los mismos.
 ## Experiencia Profesional
