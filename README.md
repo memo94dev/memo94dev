@@ -1,12 +1,3 @@
-<style>
-   h1, h2, h3, h4 {
-      text-align: center;
-   }
-   .icon {
-      text-align: center;
-      margin: 3em;
-   }
-</style>
 ## Bienvenido a mi perfil de Github! 
 # Guillermo Barrientos
 ### QA Analyst | Web Developer
@@ -54,7 +45,7 @@
 
 - O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:dodgerblue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
 
-<div class="icon">
+<div class="icons">
    <a href="mailto:memo94dev@gmail.com" title="Gmail"><img src="img/gmail-color.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.likedin.com/in/memo94dev" title="Linkedin"><img src="img/linkedin-color.png" alt="Linkedin" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://x.com/memo94dev" title="Twitter"><img src="img/twitter-color.png" alt="Twitter" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://memo94dev.github.io/Portafolio02/" title="Portafolio"><img src="img/web-color02.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://youtube.com/@memo94dev/" title="Youtube"><img src="img/youtube.png" alt="Youtube" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>
 </div>
 
