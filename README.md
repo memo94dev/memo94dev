@@ -34,9 +34,9 @@
 -	Comunicación efectiva con los usuarios para comprender y abordar sus necesidades.
 -	Reporte de errores del sistema en herramientas de Gestión de Proyectos (Trello, Clickup, Jira).
 ## Educación y Desarrollo Profesional
--	Actualmente, estoy ampliando mis habilidades en el campo del Desarrollo Web y Testing QA, estudiando las tecnologías más actualizadas.
--	Realizando el curso de Desarrollador Web del Grupo IDT de manera online.
--	Y el Bootcamp de QA Tester organizado por el MITIC impartido por Coding Dojo LATAM (Skillnest).
+-	Actualmente, estoy cursando el segundo año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
+-	He completado satisfactoriamente el curso de Desarrollado Web del [Grupo IDT](https://www.idt.com.py/) en la modalidad a distancia.
+-	También fui parte del Bootcamp QA Tester organizado por el MITIC impartido por [Coding Dojo LATAM (Skillnest)](https://www.skillnest.com/).
 ## Insignias y Certificaciones
 | Título | Academia | |
 |--|:--:|:--:|
