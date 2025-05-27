@@ -4,7 +4,7 @@
    }
    .icon {
       text-align: center;
-      margin: 3em;
+      margin: 2em;
    }
 </style>
 ## Bienvenido a mi perfil de Github! 
