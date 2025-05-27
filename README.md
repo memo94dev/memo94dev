@@ -37,6 +37,17 @@
 -	Actualmente, estoy ampliando mis habilidades en el campo del Desarrollo Web y Testing QA, estudiando las tecnologías más actualizadas.
 -	Realizando el curso de Desarrollador Web del Grupo IDT de manera online.
 -	Y el Bootcamp de QA Tester organizado por el MITIC impartido por Coding Dojo LATAM (Skillnest).
+## Insignias y Certificaciones
+| Título | Academia | |
+|--|:--:|:--:|
+| [Curso Profesional de Git](https://codigofacilito.com/certificates/591f934a-c4a5-484e-a14b-960719b4733f) | Código Facilito | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [Curso a Fondo de Github](https://codigofacilito.com/certificates/086fb020-5f66-4c2c-8cad-805bb8bdc3a8) | Código Facilito | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [Pruebas en el SDLC](https://codigofacilito.com/certificates/a08ccf77-c692-428d-be11-e45d77b2a07d) | Código Facilito | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [Curso de Introducción al Desarrollo Web (2/2)](https://skillshop.exceedlms.com/student/award/ybe3W1yePMouTRaibU19VW4a) | Google Actívate | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
+| [Curso de Introducción al Desarrollo Web (1/2)](https://skillshop.exceedlms.com/student/award/dQBjEhfMPrMqABFRm5HmPmGr) | Google Actívate | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
+| [Curso de Introducción al Desarrollo Web](https://cursos.desafiolatam.com/certificates/fnc0ax1amy) | Desafío LATAM | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [Introducción a la Programación Orientada a Objetos](https://ed.team/u/memo94dev/curso/poo) | EDTeam | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+
 ## Objetivos Profesionales
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
