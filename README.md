@@ -47,6 +47,7 @@
 | [Curso de Introducción al Desarrollo Web (1/2)](https://skillshop.exceedlms.com/student/award/dQBjEhfMPrMqABFRm5HmPmGr) | Google Actívate | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 | [Curso de Introducción al Desarrollo Web](https://cursos.desafiolatam.com/certificates/fnc0ax1amy) | Desafío LATAM | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
 | [Introducción a la Programación Orientada a Objetos](https://ed.team/u/memo94dev/curso/poo) | EDTeam | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [Distintivos y Trofeos](https://learn.microsoft.com/es-mx/users/memo94dev/achievements) | Microsoft Learn | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 
 ## Objetivos Profesionales
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
