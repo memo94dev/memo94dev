@@ -53,7 +53,7 @@
 | Descripción | 1. | 2. | 3. | 4. |
 |--|:--:|:--:|:--:|:--:|
 | Gestión de Proyectos | <img alt="AzureDevops" src="./img/tools/azuredevops.png" width="45px" height="45px"> | <img alt="Jira" src="./img/tools/jira.svg" width="45px" height="45px"> | <img alt="Trello" src="./img/tools/trello.svg" width="45px" height="45px"> | <img alt="Clickup" src="./img/tools/clickup.png" width="45px" height="45px" style="border-radius:5px"> |
-| Lenguajes | <img alt="HTML" src="./img/tools/html.png" width="45px" height="45px"> | <img alt="CSS" src="./img/tools/css.png" width="45px" height="45px"> | <img alt="Javascript" src="./img/tools/javascript.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="PHP" src="./img/tools/php.png" width="45px" height="55px"> |
+| Lenguajes | <img alt="HTML" src="./img/tools/html.png" width="45px" height="45px"> | <img alt="CSS" src="./img/tools/css.png" width="45px" height="45px"> | <img alt="Javascript" src="./img/tools/javascript.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="PHP" src="./img/tools/php.png" width="55px" height="40px"> |
 | Control de Versiones | <img alt="GIT" src="./img/tools/git.png" width="45px" height="45px"> | <img alt="Github" src="./img/tools/github2.png" width="45px" height="45px" style="border-radius:50px"> |  |  |
 | Entornos | <img alt="Intellij" src="./img/tools/intellij.png" width="45px" height="45px"> | <img alt="VSCode" src="./img/tools/vscode.png" width="45px" height="45px"> |  |  |
 | API Testing | <img alt="Postman" src="./img/tools/postman.webp" width="45px" height="45px"> | <img alt="SOAPUI" src="./img/tools/soapui.png" width="45px" height="45px" style="border-radius:50px"> |  |  |
