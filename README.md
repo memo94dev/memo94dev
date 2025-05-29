@@ -50,7 +50,7 @@
 | [Distintivos y Trofeos](https://learn.microsoft.com/es-mx/users/memo94dev/achievements) | Microsoft Learn | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 
 ## Lenguajes y Herramientas
-| Descripción |  |  |  |  |
+| Descripción | 1. | 2. | 3. | 4. |
 |--|:--:|:--:|:--:|:--:|
 | Gestión de Proyectos | <img alt="AzureDevops" src="./img/tools/azuredevops.png" width="45px" height="45px"> | <img alt="Jira" src="./img/tools/jira.svg" width="45px" height="45px"> | <img alt="Trello" src="./img/tools/trello.svg" width="45px" height="45px"> | <img alt="Clickup" src="./img/tools/clickup.png" width="45px" height="45px" style="border-radius:5px"> |
 | Lenguajes | <img alt="HTML" src="./img/tools/html.png" width="45px" height="45px"> | <img alt="CSS" src="./img/tools/css.png" width="45px" height="45px"> | <img alt="Javascript" src="./img/tools/javascript.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="PHP" src="./img/tools/php.png" width="45px" height="55px"> |
