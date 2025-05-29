@@ -49,6 +49,15 @@
 | [Introducción a la Programación Orientada a Objetos](https://ed.team/u/memo94dev/curso/poo) | EDTeam | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
 | [Distintivos y Trofeos](https://learn.microsoft.com/es-mx/users/memo94dev/achievements) | Microsoft Learn | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 
+## Lenguajes y Herramientas
+| Descripción |  |  |  |  |
+|--|:--:|:--:|:--:|:--:|
+| Gestión de Proyectos | <img alt="AzureDevops" src="./img/tools/azuredevops.png" width="45px" height="45px"> | <img alt="Jira" src="./img/tools/jira.svg" width="45px" height="45px"> | <img alt="Trello" src="./img/tools/trello.svg" width="45px" height="45px"> | <img alt="Clickup" src="./img/tools/clickup.png" width="45px" height="45px" style="border-radius:5px"> |
+| Lenguajes | <img alt="HTML" src="./img/tools/html.png" width="45px" height="45px"> | <img alt="CSS" src="./img/tools/css.png" width="45px" height="45px"> | <img alt="Javascript" src="./img/tools/javascript.png" width="60px" height="60px"> | <img alt="PHP" src="./img/tools/php.png" width="45px" height="45px"> |
+| Control de Versiones | <img alt="GIT" src="./img/tools/git.png" width="45px" height="45px"> | <img alt="Github" src="./img/tools/github.png" width="45px" height="45px"> |  |  |
+| Entornos | <img alt="Intellij" src="./img/tools/intellij.png" width="45px" height="45px"> | <img alt="VSCode" src="./img/tools/vscode.png" width="45px" height="45px"> |  |  |
+| API Testing | <img alt="Postman" src="./img/tools/postman.webp" width="45px" height="45px"> | <img alt="SOAPUI" src="./img/tools/soapui.png" width="45px" height="45px" style="border-radius:50px"> |  |  |
+| Bases de Datos | <img alt="Postman" src="./img/tools/mysql.webp" width="45px" height="45px" style="border-radius:15px"> |  |  |  |
 ## Objetivos Profesionales
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
