@@ -34,8 +34,9 @@
 -	Comunicación efectiva con los usuarios para comprender y abordar sus necesidades.
 -	Reporte de errores del sistema en herramientas de Gestión de Proyectos (Trello, Clickup, Jira).
 ## Educación y Desarrollo Profesional
--	Actualmente, estoy cursando el segundo año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
+-  Actualmente, estoy cursando el segundo año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
 -	He completado satisfactoriamente el curso de Desarrollado Web del [Grupo IDT](https://www.idt.com.py/) en la modalidad a distancia.
+-  Dominio de Excel básico con tablas dinámicas, hasta Excel Administrativo y Financiero gracias a los cursos de [ISI](https://isieduca.com/).
 -	También fui parte del Bootcamp QA Tester organizado por el MITIC impartido por [Coding Dojo LATAM (Skillnest)](https://www.skillnest.com/).
 ## Insignias y Certificaciones
 | Título | Academia | |
@@ -54,10 +55,11 @@
 |--|:--:|:--:|:--:|:--:|
 | Gestión de Proyectos | <img alt="AzureDevops" src="./img/tools/azuredevops.png" width="45px" height="45px"> | <img alt="Jira" src="./img/tools/jira.svg" width="45px" height="45px"> | <img alt="Trello" src="./img/tools/trello.svg" width="45px" height="45px"> | <img alt="Clickup" src="./img/tools/clickup.png" width="45px" height="45px" style="border-radius:5px"> |
 | Lenguajes | <img alt="HTML" src="./img/tools/html.png" width="45px" height="45px"> | <img alt="CSS" src="./img/tools/css.png" width="45px" height="45px"> | <img alt="Javascript" src="./img/tools/javascript.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="PHP" src="./img/tools/php.png" width="55px" height="40px"> |
-| Control de Versiones | <img alt="GIT" src="./img/tools/git.png" width="45px" height="45px"> | <img alt="Github" src="./img/tools/github2.png" width="45px" height="45px" style="border-radius:50px"> |  |  |
-| Entornos | <img alt="Intellij" src="./img/tools/intellij.png" width="45px" height="45px"> | <img alt="VSCode" src="./img/tools/vscode.png" width="45px" height="45px"> |  |  |
-| API Testing | <img alt="Postman" src="./img/tools/postman.webp" width="45px" height="45px"> | <img alt="SOAPUI" src="./img/tools/soapui.png" width="45px" height="45px" style="border-radius:50px"> |  |  |
-| Bases de Datos | <img alt="Postman" src="./img/tools/mysql.webp" width="45px" height="45px" style="border-radius:15px"> |  |  |  |
+| Control de Versiones | <img alt="GIT" src="./img/tools/git.png" width="45px" height="45px"> | <img alt="Github" src="./img/tools/github2.png" width="45px" height="45px" style="border-radius:50px"> | <img alt="Azure Repos" src="./img/tools/azurerepos.svg" width="60px" height="60px"> |  |
+| Entornos | <img alt="Intellij" src="./img/tools/intellij.png" width="45px" height="45px"> | <img alt="VSCode" src="./img/tools/vscode.png" width="45px" height="45px"> | <img alt="Visual Studio" src="./img/tools/visual-studio.png" width="55px" height="55px"> |  |
+| API Testing | <img alt="Postman" src="./img/tools/postman.webp" width="45px" height="45px"> | <img alt="Newman" src="./img/tools/newman.png" width="60px" height="60px"> | <img alt="SOAPUI" src="./img/tools/soapui.png" width="45px" height="45px" style="border-radius:5px"> |  |
+| Bases de Datos | <img alt="MySQL" src="./img/tools/mysql.webp" width="45px" height="45px" style="border-radius:15px"> | <img alt="SQL Developer" src="./img/tools/sqldeveloper.svg" width="45px" height="45px" style="border-radius:15px"> |  |  |
+| Otros | <img alt="Selenium" src="./img/tools/selenium.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="Jmeter" src="./img/tools/jmeter.svg" width="45px" height="45px" style="border-radius:5px; background-color:white;"> | <img alt="Grafana" src="./img/tools/grafana2.png" width="45px" height="45px" style="border-radius:5px;"> | <img alt="TestNG" src="./img/tools/testng.png" width="55px" height="45px" style="border-radius:5px;"> |
 ## Objetivos Profesionales
 - Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
