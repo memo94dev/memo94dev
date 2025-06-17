@@ -36,7 +36,7 @@
 ## Educación y Desarrollo Profesional
 -  Actualmente, estoy cursando el segundo año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
 -	He completado satisfactoriamente el curso de Desarrollado Web del [Grupo IDT](https://www.idt.com.py/) en la modalidad a distancia.
--  Conocimiento sólido en Excel Administrativo y Financiero gracias a los cursos de [ISI Educa](https://isieduca.com/).
+-  Tengo conocimientos sólidos en Excel, desde el nivel Administrativo hasta el Financiero, gracias a los cursos de [ISI Educa](https://isieduca.com/).
 -	También fui parte del Bootcamp QA Tester organizado por el MITIC impartido por [Coding Dojo LATAM (Skillnest)](https://www.skillnest.com/).
 ## Insignias y Certificaciones
 | Título | Academia | |
