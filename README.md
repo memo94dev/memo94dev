@@ -8,27 +8,28 @@
 ¡Hola! Mi nombre es **Guillermo Barrientos** y soy un apasionado tester de calidad (QA) con una sólida experiencia de más de dos años en la industria. Actualmente, trabajo para un Banco de renombre donde desempeño el rol de Analista QA, abarcando trabajos desde el análisis y diseño de Casos de Prueba, hasta la preparación y ejecución de los mismos.
 ## Experiencia Profesional
 ### Analista QA
-#### *(febrero/2025 - Actualidad)*  
+#### *(octubre/2023 - Actualidad)*  
 •	Responsabilidades:
 - Análisis de Requisitos Funcionales, Historias de Usuario y Criterios de Aceptación.
-- Diseño de Casos de Pruebas y estimación de tiempos de ejecución.
+- Diseño de Casos de Pruebas y Estimación de tiempos de Ejecución.
 - Conducción y Ejecución de pruebas exhaustivas para garantizar la calidad del software.
-- Aplicación de Testing Estático, Smoke Test, Testing Funcional o Automatizado según Análisis previo.
+- Aplicación de Técnicas de Testing (Partición de Equivalencias, Tabla de Decisiones).
+- Aplicación de Testing Funcional y No Funcional (Testing Estático, Smoke Test, Pruebas de Rendimiento).
 - Identificación y documentación de errores y problemas potenciales.
 - Colaboración con equipos de desarrollo para mejorar la calidad del producto.
 ### Tester de Calidad (QA)
-#### *(enero/2023 - enero/2025)*  
+#### *(enero/2023 - febrero/2025)*  
 •	Responsabilidades:
 - Conducción de pruebas exhaustivas para garantizar la calidad del software.
 - Identificación y documentación de errores y problemas potenciales.
 - Colaboración con equipos de desarrollo para mejorar la calidad del producto.
-### Implementación y Capacitación del Sistema
-#### *(enero/2023 - enero/2025)*  
+### Implementación y Capacitación de Uso del Sistema
+#### *(enero/2023 - febrero/2025)*  
 •	Responsabilidades:
 -	Despliegue exitoso de sistemas en entornos de producción.
 -	Capacitación a usuarios finales para garantizar una adopción efectiva del sistema.
 ### Soporte al Usuario
-#### *(enero/2023 - enero/2025)*  
+#### *(enero/2023 - febrero/2025)*  
 •	Responsabilidades:
 -	Resolución rápida y eficiente de problemas técnicos.
 -	Comunicación efectiva con los usuarios para comprender y abordar sus necesidades.
