@@ -18,7 +18,7 @@
 - Identificación y documentación de errores y problemas potenciales.
 - Colaboración con equipos de desarrollo para mejorar la calidad del producto.
 ### Tester de Calidad (QA)
-#### *(enero/2023 - febrero/2025)*  
+#### *(enero/2023 - agosto/2023)*  
 •	Responsabilidades:
 - Conducción de pruebas exhaustivas para garantizar la calidad del software.
 - Identificación y documentación de errores y problemas potenciales.
