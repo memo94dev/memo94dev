@@ -62,14 +62,13 @@
 | Bases de Datos | <img alt="MySQL" src="./img/tools/mysql.webp" width="45px" height="45px" style="border-radius:15px"> | <img alt="SQL Developer" src="./img/tools/sqldeveloper.svg" width="45px" height="45px" style="border-radius:15px"> | <img alt="PGAmin" src="./img/tools/pgadmin.png" width="45px" height="45px" style="border-radius:15px"> |  |
 | Otros | <img alt="Selenium" src="./img/tools/selenium.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="Jmeter" src="./img/tools/jmeter.svg" width="45px" height="45px" style="border-radius:5px; background-color:white;"> | <img alt="Grafana" src="./img/tools/grafana2.png" width="45px" height="45px" style="border-radius:5px;"> | <img alt="TestNG" src="./img/tools/testng.png" width="55px" height="45px" style="border-radius:5px;"> |
 
-> [!NOTE]
-> ## Objetivos Profesionales
-> Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
+## Objetivos Profesionales
+- Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
-> [!IMPORTANT]
-> ## Contacto:
-> Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:memo94dev@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px;" title="Enviar Correo">memo94dev</a>
-> O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:dodgerblue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
+## Contacto:
+- Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:memo94dev@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px;" title="Enviar Correo">memo94dev</a>
+
+- O a traves de mi cuenta de Linkedin:&nbsp;&nbsp; <a href="www.linkedin.com/in/memo94dev" style="background-color:dodgerblue; color:white; padding:3px; border-radius: 5px;" title="Ir a Linkedin">@memo94dev</a>
 
 <div style="text-align: center;">
    <a href="mailto:memo94dev@gmail.com" title="Gmail"><img src="img/gmail-color.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.likedin.com/in/memo94dev" title="Linkedin"><img src="img/linkedin-color.png" alt="Linkedin" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://x.com/memo94dev" title="Twitter"><img src="img/twitter-color.png" alt="Twitter" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://memo94dev.github.io/Portafolio02/" title="Portafolio"><img src="img/web-color02.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://youtube.com/@memo94dev/" title="Youtube"><img src="img/youtube.png" alt="Youtube" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>
