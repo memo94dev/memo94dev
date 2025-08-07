@@ -63,7 +63,8 @@
 | Otros | <img alt="Selenium" src="./img/tools/selenium.png" width="45px" height="45px" style="border-radius:5px"> | <img alt="Jmeter" src="./img/tools/jmeter.svg" width="45px" height="45px" style="border-radius:5px; background-color:white;"> | <img alt="Grafana" src="./img/tools/grafana2.png" width="45px" height="45px" style="border-radius:5px;"> | <img alt="TestNG" src="./img/tools/testng.png" width="55px" height="45px" style="border-radius:5px;"> |
 
 ## Objetivos Profesionales
-- Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
+> [!NOTE]
+> Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
 --- 
 ## Contacto:
 - Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:memo94dev@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px;" title="Enviar Correo">memo94dev</a>
