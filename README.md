@@ -40,7 +40,7 @@
 -  Tengo conocimientos sólidos en Excel, desde el nivel Administrativo hasta el Financiero, gracias a los cursos de [ISI Educa](https://isieduca.com/).
 -	También fui parte del Bootcamp QA Tester organizado por el MITIC impartido por [Coding Dojo LATAM (Skillnest)](https://www.skillnest.com/).
 ## Insignias y Certificaciones
-| Título | Academia | |
+| Título | Academia | Ref. |
 |--|:--:|:--:|
 | [Curso Profesional de Git](https://codigofacilito.com/certificates/591f934a-c4a5-484e-a14b-960719b4733f) | Código Facilito | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
 | [Curso a Fondo de Github](https://codigofacilito.com/certificates/086fb020-5f66-4c2c-8cad-805bb8bdc3a8) | Código Facilito | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
