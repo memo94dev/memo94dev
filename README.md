@@ -74,6 +74,11 @@
    <a href="mailto:memo94dev@gmail.com" title="Gmail"><img src="img/gmail-color.png" alt="Gmail" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://www.likedin.com/in/memo94dev" title="Linkedin"><img src="img/linkedin-color.png" alt="Linkedin" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://x.com/memo94dev" title="Twitter"><img src="img/twitter-color.png" alt="Twitter" style="width:40px; heigth:35px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://memo94dev.github.io/Portafolio02/" title="Portafolio"><img src="img/web-color02.png" alt="Portafolio" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>&nbsp;&nbsp;&nbsp; <a href="https://youtube.com/@memo94dev/" title="Youtube"><img src="img/youtube.png" alt="Youtube" style="width:40px; heigth:40px; border: 1px solid gray; border-radius:5px;"></a>
 </div>
 
+## YouTube
+<a href='https://youtu.be/9Gr9UoFrkZ8' target='_blank'>
+  <img width='30%' src='img/miniatura php kb.png' alt='Ejercicios básicos en PHP ejecutados desde la consola' />
+</a>
+
 <!---
 memo94dev/memo94dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
