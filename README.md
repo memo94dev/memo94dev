@@ -76,7 +76,10 @@
 
 ## YouTube
 <a href='https://youtu.be/9Gr9UoFrkZ8' target='_blank'>
-  <img width='30%' src='img/miniatura php kb.png' alt='Ejercicios básicos en PHP ejecutados desde la consola' />
+  <img width='200px' heigth='200px' style='margin:5px;' src='img/youtube-php-basico.png' alt='Ejercicios básicos en PHP ejecutados desde la consola' />
+</a>
+<a href='https://youtu.be/7fTNnLbZRIs' target='_blank'>
+  <img width='200px' heigth='200px' style='margin:5px;' src='img/youtube-jfreechart.png' alt='Gráfricos estadísticos en JFreeChart' />
 </a>
 
 <!---
