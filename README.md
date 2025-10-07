@@ -75,6 +75,9 @@
 </div>
 
 ## Vídeos en [YouTube](https://www.youtube.com/@memo94dev)
+<a href='https://youtu.be/2zLGmEk8Uds' target='_blank'>
+  <img width='200px' heigth='200px' style='margin:5px;' src='img/youtube-php-comentarios.png' alt='Gráfricos estadísticos en JFreeChart' />
+</a>
 <a href='https://youtu.be/9Gr9UoFrkZ8' target='_blank'>
   <img width='200px' heigth='200px' style='margin:5px;' src='img/youtube-php-basico.png' alt='Ejercicios básicos en PHP ejecutados desde la consola' />
 </a>
