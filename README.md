@@ -5,7 +5,7 @@
 ![imagen de portada](img/portadagithub-icons4.png)
 ---
 ## Sobre Mi:
-¡Hola! Mi nombre es **Guillermo Barrientos** y soy un apasionado tester de calidad (QA) con una sólida experiencia de más de dos años en la industria. Actualmente, trabajo para un Banco de renombre donde desempeño el rol de Analista QA, abarcando trabajos desde el análisis y diseño de Casos de Prueba, hasta la preparación y ejecución de los mismos.
+¡Hola! Mi nombre es **Guillermo Barrientos** y soy un apasionado tester de calidad (QA) con una sólida experiencia de más de tres años en la industria. Actualmente, trabajo para un Banco de renombre donde desempeño el rol de Analista QA, abarcando trabajos desde el análisis y diseño de Casos de Prueba, hasta la preparación y ejecución de los mismos.
 ## Experiencia Profesional
 ### Analista QA
 #### *(octubre/2023 - Actualidad)*  
@@ -35,7 +35,7 @@
 -	Comunicación efectiva con los usuarios para comprender y abordar sus necesidades.
 -	Reporte de errores del sistema en herramientas de Gestión de Proyectos (Trello, Clickup, Jira).
 ## Educación y Desarrollo Profesional
--  Actualmente, estoy cursando el segundo año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
+-  Actualmente, estoy cursando el tercer año de la carrera de Licenciatura en Análisis de Sistemas Informáticos en la [Universidad Tecnológica Intercontinental (UTIC)](https://www.utic.edu.py/v7/).
 -	He completado satisfactoriamente el curso de Desarrollado Web del [Grupo IDT](https://www.idt.com.py/) en la modalidad a distancia.
 -  Tengo conocimientos sólidos en Excel, desde el nivel Administrativo hasta el Financiero, gracias a los cursos de [ISI Educa](https://isieduca.com/).
 -	También fui parte del Bootcamp QA Tester organizado por el MITIC impartido por [Coding Dojo LATAM (Skillnest)](https://www.skillnest.com/).
@@ -49,6 +49,7 @@
 | [Curso de Introducción al Desarrollo Web (1/2)](https://skillshop.exceedlms.com/student/award/dQBjEhfMPrMqABFRm5HmPmGr) | Google Actívate | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 | [Curso de Introducción al Desarrollo Web](https://cursos.desafiolatam.com/certificates/fnc0ax1amy) | Desafío LATAM | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
 | [Introducción a la Programación Orientada a Objetos](https://ed.team/u/memo94dev/curso/poo) | EDTeam | <img alt="Certificado" src="./img/certificado_online.png" width="45px" height="45px"> |
+| [OWASP Top 10](https://www.udemy.com/certificate/UC-3d6aa493-2993-4b0e-a859-3c9a7b5ba8b1/) | Udemy | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 | [Distintivos y Trofeos](https://learn.microsoft.com/es-mx/users/memo94dev/achievements) | Microsoft Learn | <img alt="Certificado" src="./img/insignia_online.png" width="45px" height="45px"> |
 
 ## Lenguajes y Herramientas
@@ -63,7 +64,7 @@
 | Otros | <img title="Selenium Web Driver" alt="Selenium" src="./img/tools/selenium.png" width="45px" height="45px" style="border-radius:5px"> | <img title="Jmeter Test Performance" alt="Jmeter" src="./img/tools/jmeter.svg" width="45px" height="45px" style="border-radius:5px; background-color:white;"> | <img title="Grafana Monitoreo" alt="Grafana" src="./img/tools/grafana2.png" width="45px" height="45px" style="border-radius:5px;"> | <img title="TestNG" alt="TestNG" src="./img/tools/testng.png" width="55px" height="45px" style="border-radius:5px;"> |
 
 ## Objetivos Profesionales
-- Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales y de alta calidad a los clientes.
+- Mi objetivo es seguir creciendo como profesional en el campo de la tecnología, combinando mis habilidades en pruebas de calidad con el desarrollo web para ofrecer soluciones integrales, seguras y de alta calidad a los clientes.
 --- 
 ## Contacto:
 - Me puedes contactar al siguiente link:&nbsp;&nbsp; <a href="mailto:memo94dev@gmail.com" style="background-color:crimson; color:white; padding:3px; border-radius: 5px;" title="Enviar Correo">memo94dev</a>
