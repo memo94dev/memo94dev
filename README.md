@@ -17,7 +17,7 @@
 - Aplicación de Testing Funcional y No Funcional (Testing Estático, Smoke Test, Pruebas de Rendimiento).
 - Identificación y documentación de errores y problemas potenciales.
 - Colaboración con equipos de desarrollo para mejorar la calidad del producto.
-### Tester de Calidad (QA)
+### Betatester / Tester de Calidad (QA)
 #### *(enero/2023 - agosto/2023)*  
 •	Responsabilidades:
 - Conducción de pruebas exhaustivas para garantizar la calidad del software.
